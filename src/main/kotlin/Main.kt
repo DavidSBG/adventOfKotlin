@@ -1,9 +1,12 @@
 import days.Day01
+import days.Day02
 import days.Day03
 
 object Main {
     private val days = listOf(
-        Day03
+            Day01,
+            Day02,
+            Day03,
     )
 
     @JvmStatic
@@ -16,10 +19,10 @@ object Main {
             days.forEach { printDay(it)}
     }
 
-
     private fun printDay(day: Day) {
-        println("=== Day ${day.number.toString().padStart(2, '0')}: ${day.title} ===")
-        println("|> Part 1: ${day.partOne()}")
-        println("|> Part 2: ${day.partTwo()}")
+        val header = "=== Day ${day.number.toString().padStart(2, '0')}: ${day.title} ==="
+        println(header)
+        println("O> Part 1: ${day.partOne()}")
+        println("O> Part 2: ${day.partTwo()}")
     }
 }
