@@ -24,5 +24,5 @@ Solutions for 2022 [Advent of Code](https://adventofcode.com/) in Kotlin.
 | -----:| -----:| -----:| -----:| -----:|
 | Day  | Day  | Day  | [Day 3](https://github.com/DavidSBG/adventOfKotlin/blob/main/src/main/kotlin/days/Day03.kt) | Day  |
 | Day  | Day  | Day  | Day  | Day  |
-| Day  | Day  | [Day 2](https://github.com/DavidSBG/adventOfKotlin/blob/main/src/main/kotlin/days/Day02.kt) | Day  | Day  |
+| [Day 4](https://github.com/DavidSBG/adventOfKotlin/blob/main/src/main/kotlin/days/Day04.kt)  | Day  | [Day 2](https://github.com/DavidSBG/adventOfKotlin/blob/main/src/main/kotlin/days/Day02.kt) | Day  | Day  |
 | Day  | Day  | Day  | Day  | Day  |
