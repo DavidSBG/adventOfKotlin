@@ -1,7 +1,4 @@
-import days.Day01
-import days.Day02
-import days.Day03
-import days.Day04
+import days.*
 
 object Main {
     private val days = listOf(
@@ -9,6 +6,7 @@ object Main {
             Day02,
             Day03,
             Day04,
+            Day05,
     )
 
     @JvmStatic
